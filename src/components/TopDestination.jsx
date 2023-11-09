@@ -59,11 +59,11 @@ import img4 from "../assets/img7.jpg";
 
 const TopDestination = () => {
   return (
-    <div className=" mt-24  p-14">
+    <div className="  p-14">
       <div className=" lg:w-[90%] mx-auto ">
-        <div className="mb-10 text-white text-center ">
-          <span className=" italic text-lg">Tours</span>
-          <p className="text-4xl   font-bold">Featured Tours</p>
+        <div className="mb-10  ">
+          <span className=" italic text-secondary text-lg">Destination</span>
+          <p className="text-5xl text-primary  font-bold">Top Destination</p>
         </div>
         <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-4 ">
           <div className="mb-3">

@@ -23,7 +23,7 @@ const Navbar = () => {
         to="/about"
         className="text-secondary text-xl font-semibold hover:text-teal-600 py-3"
       >
-        Product
+        About Us
       </Link>
       <Link
         to="/destination"

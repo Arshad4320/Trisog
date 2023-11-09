@@ -2,6 +2,7 @@ import Banner from "../components/Banner";
 import Fetarud from "../components/Fetarud";
 import PickTour from "../components/PickTour";
 import TopDestination from "../components/TopDestination";
+import TravelGuid from "../components/TravelGuid";
 import Trip from "../components/trip";
 
 const Home = () => {
@@ -12,6 +13,7 @@ const Home = () => {
       <Trip />
       <TopDestination />
       <Fetarud />
+      <TravelGuid />
     </div>
   );
 };

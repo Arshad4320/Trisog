@@ -3,7 +3,7 @@ import Fetarud from "../components/Fetarud";
 import PickTour from "../components/PickTour";
 import TopDestination from "../components/TopDestination";
 import TravelGuid from "../components/TravelGuid";
-import Trip from "../components/trip";
+import Trip from "../components/Trip";
 
 const Home = () => {
   return (

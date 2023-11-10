@@ -1,27 +1,13 @@
-# React + TypeScript + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+* Website name : # Travel place
 
-Currently, two official plugins are available:
+* Home page: Add Banner Section , implemented Top Destination section ,Featured Tours section add also Latest Travel Guid section and pic-tour type section implemented
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+* About Page: Story of Travel section add, why we are best to another  company add this section.add the team section counter section and overlay banner etc.
 
-## Expanding the ESLint configuration
+* Destination Page:Added The Banner Section ,Special tour place Section,populer Tourism section and uk Activity section implemented. and
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+* Static Login and Register Form Added.
 
-- Configure the top-level `parserOptions` property like this:
+* Web Site Link : https://travel-good.netlify.app/
 
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list

@@ -1,5 +1,3 @@
-import React from "react";
-
 const BasicInfoDestination = () => {
   return (
     <div className="mx-auto w-[90%]">

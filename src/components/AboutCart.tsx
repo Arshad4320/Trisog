@@ -1,5 +1,3 @@
-import React from "react";
-
 const AboutCart = () => {
   return (
     <div className="mt-24 mx-10">

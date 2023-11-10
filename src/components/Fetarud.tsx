@@ -1,11 +1,6 @@
-import React from "react";
 import img from "../assets/img4.jpg";
 import img3 from "../assets/img6.jpg";
 import img4 from "../assets/img7.jpg";
-
-
-
-
 
 const Fetarud = () => {
   return (

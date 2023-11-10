@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import { Link } from "react-router-dom";
 import { FaOutdent } from "react-icons/fa";
 import { HiMiniXMark } from "react-icons/hi2";

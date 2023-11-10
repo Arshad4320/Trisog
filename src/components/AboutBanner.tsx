@@ -1,4 +1,3 @@
-import React from "react";
 import banner from "../assets/img8.jpg"; // Adjust the path based on your project structure
 
 const AboutBanner = () => {

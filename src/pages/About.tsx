@@ -1,4 +1,3 @@
-import React from "react";
 import AboutBanner from "../components/AboutBanner";
 import AboutVcaition from "../components/AboutVcaition";
 import CustomerCount from "../components/CustomerCount";

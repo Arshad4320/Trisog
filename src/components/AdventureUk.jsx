@@ -1,19 +1,18 @@
 import React from "react";
-import img2 from "../assets/gallery1.jpg";
-import img3 from "../assets/gallery2.jpg";
-import img4 from "../assets/gallery3.jpg";
-import img5 from "../assets/gallery4.jpg";
+import img from "../assets/img4.jpg";
+import img3 from "../assets/img6.jpg";
+import img4 from "../assets/img7.jpg";
 
-const PopulerTour = () => {
+const AdventureUk = () => {
   return (
-    <div className="py-16">
+    <div className="mb-10">
       <div className=" w-[90%] mx-auto ">
         <div className="mb-7 text-primary ">
-          <p className="text-5xl   font-bold">Populer Tours In Uk</p>
+          <p className="text-5xl   font-bold">Activites In Uk</p>
         </div>
         <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-4 ">
           <div className="w-72 mb-7">
-            <img className="w-72 h-64 rounded-t-lg" src={img2} alt="" />
+            <img className="w-72 h-64 rounded-t-lg" src={img} alt="" />
 
             <div className="bg-white rounded-b-lg  p-4">
               <span className="text-lg text-gray-400">
@@ -91,7 +90,7 @@ const PopulerTour = () => {
           </div>
 
           <div className="w-72 mb-7">
-            <img className="w-72 h-64 rounded-t-lg" src={img5} alt="" />
+            <img className="w-72 h-64 rounded-t-lg" src={img} alt="" />
 
             <div className="bg-white rounded-b-lg  p-4">
               <span className="text-lg text-gray-400">
@@ -121,4 +120,4 @@ const PopulerTour = () => {
   );
 };
 
-export default PopulerTour;
+export default AdventureUk;

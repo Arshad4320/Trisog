@@ -3,6 +3,7 @@ import Gallery from "./../components/Gallery";
 import AboutDestination from "./../components/AboutDestination";
 import BasicInfoDestination from "../components/BasicInfoDestination";
 import PopulerTour from "../components/PopulerTour";
+import AdventureUk from "../components/AdventureUk";
 const Destination = () => {
   return (
     <div>
@@ -11,6 +12,7 @@ const Destination = () => {
       <AboutDestination />
       <BasicInfoDestination />
       <PopulerTour />
+      <AdventureUk />
     </div>
   );
 };
